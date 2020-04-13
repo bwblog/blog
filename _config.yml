@@ -1,0 +1,19 @@
+title: 'BlackWings Blog'
+description: "BlackWings Blog"
+baseurl: "/"
+url: "https://bwlog.github.io/blog"
+
+header_pages:
+  - index.md
+  - contact.md
+
+style: dark
+
+footer: 'AutoTouch v6.1.2 crack support iOS 13<br/>
+Giá 200k/key sử dụng vĩnh viễn<br />
+Liên hệ mua key <a href="https://m.me/CrazyBoy668">m.me/CrazyBoy668</a><br />
+BlackWings &copy; 2020'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
