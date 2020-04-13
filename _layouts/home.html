@@ -12,7 +12,7 @@ layout: default
       {%- assign date_format = "%Y-%m-%d-%H-%M" -%}
       [ {{ post.date | date_to_string }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
 
-    <span style="float: right">{{ post.date | date: "%H:%M" }}</span>
+    <span style="float: right">{{ post.date | date: "%H:%M" }} aaa</span>
       </li>
     {%- endfor -%}
   </ul>
