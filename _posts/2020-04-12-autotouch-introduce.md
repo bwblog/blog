@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Giới thiệu AutoTouch
-date: 2020-04-12 23:38:53 -0700
+date: 2020-04-12 23:38:53 +0700
 categories: null
 ---
 
