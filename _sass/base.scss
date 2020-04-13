@@ -138,3 +138,29 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 .highlight .vg { color: var(--code-color-7); } /* Name.Variable.Global */
 .highlight .vi { color: var(--code-color-7); } /* Name.Variable.Instance */
 .highlight .il { color: var(--code-color-14); } /* Literal.Number.Integer.Long */
+
+
+.table table {
+  //border-collapse: collapse;
+  width: 100%;
+}
+.table td {
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: 1.2rem;
+}
+.table th {
+  text-align: center;
+}
+
+.description {
+  color: var(--code-color-15);
+}
+
+.heading {
+  color: var(--code-color-16);
+  font-size: 33px;
+  font-weight: bold;
+}
