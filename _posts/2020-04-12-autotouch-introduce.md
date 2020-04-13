@@ -78,10 +78,8 @@ categories: null
   <ul>
     <li>ACE chọn nút "Extensions", "Indent" and "Statements", sau đó chọn lệnh hoặc khối lệnh để viết script một cách đơn giản và tránh bị sai cú pháp.</li>
     <img src="https://i.imgur.com/fD9dX7q.jpg" class="img-fluid" style="width:30%">
-    <li>
-      <p>Nút "HELPER" trong "Extensions" sẽ giúp ace căn toạ độ, kích thước, màu, phím cần bấm nhanh chóng.</p>
-      <p><img src="https://i.imgur.com/ng2QWrz.png" alt="Function Helper" /></p>
-    </li>
+    <li>Nút "HELPER" trong "Extensions" sẽ giúp ace căn toạ độ, kích thước, màu, phím cần bấm nhanh chóng.</li>
+    <img src="https://i.imgur.com/ng2QWrz.png" alt="Function Helper" />  
   </ul>
 </blockquote>
 <p><a href="#table-of-contents">Top</a></p>
