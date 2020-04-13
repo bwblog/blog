@@ -17,3 +17,4 @@ BlackWings &copy; 2020'
 # Build settings
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
+timezone: Asia/Ho_Chi_Minh
